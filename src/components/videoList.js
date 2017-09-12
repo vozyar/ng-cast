@@ -6,12 +6,12 @@ angular.module('video-player')
     onClick: '<'
   },
   // TODO
-  controller: function() {
+  // controller: function() {
  
-    this.onClick = () => {};
+  //   this.onClick = () => {};
     
 
-  },
+  // },
   
   templateUrl: 'src/templates/videoList.html'
 });
